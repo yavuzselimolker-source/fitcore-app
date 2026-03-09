@@ -43,3 +43,20 @@ vercel
 ```
 
 Adımları takip et → canlı linkin hazır!
+
+---
+
+## Tamamlanan Bölümler ✅
+- Register / Login sistemi (hata mesajları dahil)
+- Onboarding (kişisel bilgi, aktiflik, hedef)
+- Dashboard (anlık özet, TDEE hesabı, tavsiyeler)
+- Uyku takibi (sorun girişi, 2 plan, vitamin önerileri)
+- Beslenme (öğün, supplement, sıvı takibi, grafik)
+- Profil (fotoğraf arşivi, düzenleme, avatar)
+- Navigasyon (sidebar + mobil bottom nav)
+
+## Geliştirme Aşamasında 🚧
+- Antrenman planı (Full Body / Split)
+- Haftalık takip ve telafi sistemi
+- Hedefler + 3D vücut modeli
+- Mini oyun (Quiz + Spordle)
